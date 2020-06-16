@@ -1,4 +1,4 @@
-package schultz.dustin.io.services;
+package carter.farrah.io.services;
 
 import com.madgag.gif.fmsware.AnimatedGifEncoder;
 import org.bytedeco.javacv.FFmpegFrameGrabber;
